@@ -9,10 +9,10 @@ dqn is the state of environment,and it's output is the probability distribution 
 
 
 If you want to run the examples, you'll also have to install:
-pip install tensorflow
-pip install numpy
-pip install gym
+####pip install tensorflow
+####pip install numpy
+####pip install gym
 
 references:
-1.Playing Atari with Deep Reinforcement Learning, Mnih et al., 2013
+1.Playing Atari with Deep Reinforcement Learning, Mnih et al., 2013\n
 2.Human-level control through deep reinforcement learning, Mnih et al., 2015
